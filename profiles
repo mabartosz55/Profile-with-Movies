@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+
+<head>
+    <html lang="en">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible">
+    <meta name="viewpoint" content="IE=edge">
+    <link rel="stylesheet" href="/style.css">
+
+    <style>
+        table,
+        td,
+        th,
+        tr {
+            border: 2px solid brown;
+            border-collapse: collapse;
+            Padding: 6.5px;
+            background-color: bisque;
+        }
+    </style>
+
+</head>
+<html>
+<body< />
+<title>michael bartosz</title>
+<h1> Michael A. Bartosz</h1>
+<h2>Email: <a href="mailto:mabartosz55@gmail.com"> mabartosz55@gmail.com</a>
+    <h2>Fun Fact:</h2>
+    <p>Photographs old buildings for art projects.</p>
+    <h2>Hobbies:</h2>
+    <ol type="i">
+        <li>Photography</li>
+        <li>Architecture</li>
+        <li>Design</li>
+        <li>Likes to Travel</li>
+        <li>Grows Orchids</li>
+    </ol>
+    <h2>"What I'm excited about:"</h2>
+    <p>Publishing my photographs</p>
+    <h2>My Favorite place on the web:</h2>
+    <p>The Indianapolis Museum of Art, <a href="https://discovernewfields.org/" target="_blank"><i>Newfields!</i></a>
+        ...Great art of all types.</p>
+    <h2>What motivated me to take this class?:</h2>
+    <p>Learning a way to mix my art and technology!</p>
+    <h2>
+        My favorite movies!
+    </h2>
+
+    <table>
+        <tr>
+            <th>Title</th>
+            <th>Poster</th>
+            <th>Details</th>
+        </tr>
+
+        <tr>
+            <td>
+                <a href="https://www.imdb.com/title/tt0111161/" target="_blank">
+                    The Shawshank Redemption </a>
+            </td>
+
+            <td>
+                <img src="https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+                    alt="Shawshank Poster" width="200">
+            </td>
+            <td>
+                <ul>
+                    <li>Director: Frank Darabont</li>
+                    <li>Rating is 9.3</li>
+
+                </ul>
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                <a href="https://www.imdb.com/title/tt0077975/?ref_=nv_sr_srsg_0" target="_blank">
+                    Animal House </a>
+            </td>
+            <td>
+                <img src="https://m.media-amazon.com/images/M/MV5BM2M2ZDA4MTYtOGRjMi00OTg5LWI1ZTUtMjQxZTc2NWZjNDFkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SY1000_CR0,0,666,1000_AL_.jpg"
+                    alt="Anamil House" width="200">
+            </td>
+
+            <td>
+                <ul>
+                    <li>Director: John Landis</li>
+                    <li>Rating is 7.5</li>
+
+                </ul>
+            </td>
+
+        </tr>
+
+        <tr>
+            <td>
+                <a href="https://www.imdb.com/title/tt0087928/?ref_=nv_sr_srsg_0" target="_blank">
+                    Police Academy </a>
+            </td>
+            <td>
+                <img src="https://m.media-amazon.com/images/M/MV5BMjNiMWVhNjAtMzgyYS00NzRhLWJmNGUtNzdiOGFhMmY5NDUwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY1000_CR0,0,661,1000_AL_.jpg"
+                    alt="Police Academy" width="200">
+            </td>
+            <td>
+                <ul>
+                    <li>Director: Hugh Wilson</li>
+                    <li>Rating is 6.7</li>
+
+                </ul>
+            </td>
+        </tr>
+
+        <tr>
+
+            <td>
+                <a href="https://www.imdb.com/title/tt8579674/?ref_=fn_al_tt_1" target="_blank"> 1917
+                </a>
+            </td>
+            <td>
+                <img src="https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_SY1000_CR0,0,631,1000_AL_.jpg"
+                    alt="1917" width="200">
+
+            </td>
+
+            <td>
+                <ul>
+                    <li>Director: Sam Mendes</li>
+                    <li>Rating is 8.4</li>
+
+                </ul>
+            </td>
+        </tr>
+
+        <tr>
+            <td>
+                <a href="https://www.imdb.com/title/tt0056172/?ref_=nv_sr_srsg_0" target="_blank">
+                    Lawerence of Arabia </a>
+            </td>
+            <td>
+                <img src="https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SY1000_CR0,0,693,1000_AL_.jpg"
+                    alt="Lawerance of Ariba" width="200">
+            </td>
+        </tr>
+
+    </table>
+
+    <body>
+
+</html>
